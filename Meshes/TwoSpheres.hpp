@@ -1,3 +1,5 @@
+#pragma once
+
 // Some hard-coded example featuring two meshed sphere is close vicinity to to each other.
 constexpr Int dom_dim      = 2;
 constexpr Int amb_dim      = 3;
